@@ -50,5 +50,5 @@ The design enforces data integrity through constraints, relationships, and index
 1. Run the SQL command: `CREATE DATABASE clinicBookingSystem;`
 2. Importthe Schema: `mysql -u root -p clinicBookingSystem < schema.sql`
 3. Verify Tables: 
-`USE clinic_db;`
+`USE clinicBookingSystem;`
 `SHOW TABLES;`
