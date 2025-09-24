@@ -1,9 +1,9 @@
-# 🏥 Clinic Booking System – Database Design (MySQL)
+# Clinic Booking System – Database Design (MySQL)
 
 - This project implements a relational database schema for a Clinic Booking System using MySQL.
 The design enforces data integrity through constraints, relationships, and indexes, making it suitable for managing patients, doctors, appointments, prescriptions, and payments in a real-world clinic.
 
-## 📌 Features
+## Features
 
 - Structured relational schema with 7 main entities
 
@@ -21,7 +21,7 @@ The design enforces data integrity through constraints, relationships, and index
 
 - Foreign key rules (CASCADE, SET NULL, RESTRICT) for safe data handling
 
-### 🗄️ Database Schema
+### Database Schema
 *Tables*
 
 - Patients → Stores patient details
